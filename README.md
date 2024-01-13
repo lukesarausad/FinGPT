@@ -1,1 +1,1 @@
-# FinGPT
+# Fin
