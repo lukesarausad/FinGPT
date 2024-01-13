@@ -1,1 +1,1 @@
-# Fin
+# FinGPT Playground
